@@ -1,0 +1,5 @@
+# Ignore the selenium_test_oto folder
+selenium_test_oto/
+
+# Ignore the urls.txt file
+urls.txt
